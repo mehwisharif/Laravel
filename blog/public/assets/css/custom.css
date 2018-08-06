@@ -1,0 +1,56 @@
+.logo img {
+
+	width: 25%;
+	height: 200px;
+	margin-left: 430px;
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+.blog-masthead{
+	background-color: #ef80b3;
+}
+.blog-nav-item{
+	color: #262a2d;
+}
+
+.navbar-nav li a{
+	color: black;
+	font-size: 17px;
+	padding-left: 30px;
+}
+.navbar-nav li a:hover{
+	color: pink;
+    background: none; 
+}
+.about img{
+	width: 100%;
+}
+.about h4{
+	text-align: center;
+	color: pink;
+}
+.about h3{
+	text-align: center;
+}
+.blog-post h2{
+	text-align: center;
+}
+.blog-post img{
+	width: 100%;
+}
+.btn-pink{
+	color: white;
+	background: pink;
+}
+.sidebar-module li a{
+	color: pink;
+}
+.sidebar-module li a:hover{
+	color: black;
+}
+.pager li a{
+	color: pink;
+}
+.pager li a:hover{
+	color: black;
+}
